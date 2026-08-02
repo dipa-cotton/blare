@@ -30,24 +30,24 @@ no ai was used in this project :))))))
 a more detailed list can be found in BOM.csv :)
 
 ## Journal
-Day 1: PCB
-Hours Spent: 3
-What did you do?:
+### Day 1: PCB
+#### Hours Spent: 3
+##### What did you do?:
 Today, I used KiCAD to build the schematic for my alarm as well as routed the PCB. This took quite a bit of effort, and took me a couple of hours due to fixing ERC and DRC issues.
 
-Why did you do it?:
+##### Why did you do it?:
 I did this to create the PCB for my project, so it can be easily manufactured and used to make an alarm clock that is compact for its size :)
 
-What problems did you face?:
+##### What problems did you face?:
 I faced issues with ERC (electric rules checker), mostly unused pins lol. In the end though, with google by my side, I was able to figure out that the unused pins must have an x symbol at the end of them to prevent KiCAD from getting angered. In the images above, you can see the specific wiring of the components, as well as the final PCB. The PCB was the easy part, as routing was quite simple.
 
-Day 2: Code
-Hours Spent: 4
-What did you do?:
+### Day 2: Code
+#### Hours Spent: 4
+##### What did you do?:
 Today, I used the Arduino IDE to fully code the alarm clock. In my code, there are if statements that correspond each switch to a certain command, which displays what it does on the LCD as well. There are multiple commands, such as one that displays an undertale doggo, one that shows the weather, one that allows you to set an alarm time, one that shows the current time, and others as well. This code, once uploaded should hopefully turn the alarm clock into a working device, not just an alarm clock :)
 
-Why did you do it?:
+##### Why did you do it?:
 I did this with the goal of making something more complex than a simple alarm clock, but a device within itself that can be used for multiple purposes, sort of like a nightstand hub that tells you everything you need to know!
 
-What problems did you face?:
+##### What problems did you face?:
 I faced syntax issues with C++ as always, and I also didn't know how to display an image of the undertale doggo on the screen, but with guidance from google and a website that turned the image into a format that the c3 can understand, I was able to successfully use it to display an image when a certain button is pressed. In the future, I may try to add motion, or a lil gif of the guy jumping!
