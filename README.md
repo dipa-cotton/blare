@@ -19,3 +19,12 @@ no ai was used in this project :))))))
 <img width="848" height="682" alt="Screenshot 2026-07-20 at 7 50 00 PM" src="https://github.com/user-attachments/assets/af6569d8-7f9a-4175-86dd-233c998ccc74" />
 <img width="696" height="586" alt="Screenshot 2026-07-20 at 7 50 36 PM" src="https://github.com/user-attachments/assets/7e9f44f5-f9dc-486d-810e-393899269bae" />
 <img width="688" height="586" alt="Screenshot 2026-08-02 at 7 16 50 PM" src="https://github.com/user-attachments/assets/f6e20af3-55e8-4551-a485-5333b0a23248" />
+
+## BOM
+- 6 Cherry MX Switches
+- 1 LCD Display
+- 1 Lolin C3 Mini
+- 1 Buzzer
+- 6 Resistors (already owned)
+- 3 Capacitors (already owned)
+a more detailed list can be found in BOM.csv :)
