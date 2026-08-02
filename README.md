@@ -51,3 +51,16 @@ I did this with the goal of making something more complex than a simple alarm cl
 
 ##### What problems did you face?:
 I faced syntax issues with C++ as always, and I also didn't know how to display an image of the undertale doggo on the screen, but with guidance from google and a website that turned the image into a format that the c3 can understand, I was able to successfully use it to display an image when a certain button is pressed. In the future, I may try to add motion, or a lil gif of the guy jumping!
+
+### Day 3: CAD
+#### Hours Spent: 1
+##### What did you do?:
+Today, I used Fusion 360 to create a case for my alarm clock. I exported a step file of the pcb from KiCAD, imported it into Fusion as a mesh file, and created a case around it. This process made sure that everything is correctly spaced, and looks nice.
+
+##### Why did you do it?:
+I did this so the alarm clock isn't just a PCB with no case. It has a heart too, yknow? In the future, I'll make it look nicer, but once my PCB arrives, I'll make sure everything fits and make it look nicer.
+
+##### What problems did you face?:
+I didn't really face any issues, cuz I know Fusion 360 pretty well, but text always acts funny on my Mac so I just had to struggle with that for a minute or 2.
+
+
