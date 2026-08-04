@@ -1,4 +1,4 @@
-<img width="800" height="592" alt="Screenshot 2026-08-04 at 5 14 55 PM" src="https://github.com/user-attachments/assets/64e34e26-11cd-41a9-8bab-d1cdbff04bab" />
+
 
 
 # blare
@@ -17,7 +17,7 @@ no ai was used in this project :))))))
 
 ## pictures
 
-<img width="1082" height="823" alt="Screenshot 2026-08-03 at 8 34 41 PM" src="https://github.com/user-attachments/assets/b98381d6-c43e-43de-81bf-751480dc5d04" />
+<img width="800" height="592" alt="Screenshot 2026-08-04 at 5 14 55 PM" src="https://github.com/user-attachments/assets/64e34e26-11cd-41a9-8bab-d1cdbff04bab" />
 <img width="868" height="666" alt="Screenshot 2026-08-04 at 5 19 33 PM" src="https://github.com/user-attachments/assets/72d8d75d-0131-482c-b313-6880b96282c1" />
 <img width="868" height="666" alt="Screenshot 2026-08-04 at 5 16 09 PM" src="https://github.com/user-attachments/assets/93ca13b1-0655-4d17-9ce5-a28064bfafbc" />
 <img width="868" height="666" alt="Screenshot 2026-08-04 at 5 15 20 PM" src="https://github.com/user-attachments/assets/95fb4db9-bcc2-4c4c-9f61-cf7c5864e913" />
