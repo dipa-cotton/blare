@@ -1,3 +1,4 @@
+<img width="800" height="592" alt="Screenshot 2026-08-04 at 5 14 55 PM" src="https://github.com/user-attachments/assets/64e34e26-11cd-41a9-8bab-d1cdbff04bab" />
 
 
 # blare
@@ -15,10 +16,11 @@ the main files are my PCB and Schematic made in kicad, and I have directories of
 no ai was used in this project :))))))
 
 ## pictures
-<img width="848" height="682" alt="Screenshot 2026-07-20 at 7 49 32 PM" src="https://github.com/user-attachments/assets/da54956a-2a7c-4308-a1c8-741d8b7642bb" />
-<img width="848" height="682" alt="Screenshot 2026-07-20 at 7 50 00 PM" src="https://github.com/user-attachments/assets/af6569d8-7f9a-4175-86dd-233c998ccc74" />
-<img width="696" height="586" alt="Screenshot 2026-07-20 at 7 50 36 PM" src="https://github.com/user-attachments/assets/7e9f44f5-f9dc-486d-810e-393899269bae" />
-<img width="688" height="586" alt="Screenshot 2026-08-02 at 7 16 50 PM" src="https://github.com/user-attachments/assets/f6e20af3-55e8-4551-a485-5333b0a23248" />
+
+<img width="1082" height="823" alt="Screenshot 2026-08-03 at 8 34 41 PM" src="https://github.com/user-attachments/assets/b98381d6-c43e-43de-81bf-751480dc5d04" />
+<img width="868" height="666" alt="Screenshot 2026-08-04 at 5 19 33 PM" src="https://github.com/user-attachments/assets/72d8d75d-0131-482c-b313-6880b96282c1" />
+<img width="868" height="666" alt="Screenshot 2026-08-04 at 5 16 09 PM" src="https://github.com/user-attachments/assets/93ca13b1-0655-4d17-9ce5-a28064bfafbc" />
+<img width="868" height="666" alt="Screenshot 2026-08-04 at 5 15 20 PM" src="https://github.com/user-attachments/assets/95fb4db9-bcc2-4c4c-9f61-cf7c5864e913" />
 
 ## BOM
 - 6 Cherry MX Switches
@@ -67,7 +69,7 @@ I did this so the alarm clock isn't just a PCB with no case. It has a heart too,
 
 ##### What problems did you face?:
 I didn't really face any issues, cuz I know Fusion 360 pretty well, but text always acts funny on my Mac so I just had to struggle with that for a minute or 2.
+<img width="1858" height="1324" alt="image" src="https://github.com/user-attachments/assets/18c14671-d128-409c-a902-72af7864753f" />
 
 
-<img width="1082" height="823" alt="Screenshot 2026-08-03 at 8 34 41 PM" src="https://github.com/user-attachments/assets/b98381d6-c43e-43de-81bf-751480dc5d04" />
 
